@@ -99,17 +99,5 @@ See [train.md](docs/train.md) for a quick start guide.
 
 See [eval.md](docs/eval.md) for details about evaluating MUPA on public benchmarks.
 
-## 📖 Citation
-
-Please kindly cite our paper if you find this project helpful.
-
-```bibtex
-@inproceedings{xxx,
-  title = {MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering},
-  author = {Jisheng Dang, Huilin Song, Junbin Xiao, Bimei Wang, Han Peng, Haoxuan Li, Xun Yang, Meng Wang, Tat-Seng Chua},
-  booktitle = {arXiv preprint arXiv},
-  year = {2025}
-}
-```
 
 
